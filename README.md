@@ -1,7 +1,9 @@
 **About Me**
+
 I am a passionate Flutter and Python developer committed to problem-solving and creating solutions to help fight inequalities and achieve the Sustainable Development Goals. I believe that technology can play an important role in achieving these goals, and I am determined to contribute to this effort.
 
 **My Skills**
+
   • Flutter
   • Python
   • Artificial Intelligence
@@ -9,9 +11,11 @@ I am a passionate Flutter and Python developer committed to problem-solving and 
   • Mobile and Web Application Development
 
 **My Projects**
+
 I'm learning about Flutter and Python but working on some interesting projects. Hopefully I'll change my README to talk about it here.😉
 
 **Contact Me**
+
 If you would like to discuss projects or collaborations, please feel free to contact me by email or via social media. I am always happy to chat with like-minded individuals who are passionate about technology and social impact.
 
 
