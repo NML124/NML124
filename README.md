@@ -5,10 +5,15 @@ I am a passionate Flutter and Python developer committed to problem-solving and 
 **My Skills**
 
   • Flutter
+  
   • Python
+  
   • Artificial Intelligence
+  
   • Problem-solving
+  
   • Mobile and Web Application Development
+  
 
 **My Projects**
 
