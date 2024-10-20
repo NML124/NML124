@@ -9,4 +9,4 @@ My career includes diverse projects such as industrial production line monitorin
 - 🛠️👥 Software project management with multidisciplinary teams
 - 🔄✨ Application maintenance and updates
 
-I am open to new opportunities and collaborations to continue creating impactful technological solutions. Please feel free to contact me to discuss potential projects.
+I am open to new opportunities and collaborations to continue creating impactful technological solutions. Please feel free to contact me to discuss potential projects.🤸🏿
