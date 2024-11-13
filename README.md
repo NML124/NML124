@@ -1,12 +1,48 @@
-As a passionate and experienced software engineer, I specialize in developing mobile and PC applications, and implementing AI solutions. Over the past three years, I have primarily used Flutter and Python to create innovative, high-performance solutions.
+<h2 align="left">Néhémie Lwatumba - Software engineer student</h2>
 
-My career includes diverse projects such as industrial production line monitoring and emergency service location tools, showcasing my ability to address complex needs. My dedication to developing useful and effective solutions keeps me at the forefront of technology, delivering high-quality products to clients and users.
+###
 
-**Skills:**
-- 📱💻 Mobile and PC application development using Flutter
-- 🤖 AI implementation
-- 🌐🔗 API integration (Google Maps, Firebase, etc.)
-- 🛠️👥 Software project management with multidisciplinary teams
-- 🔄✨ Application maintenance and updates
+<p align="left">👋 Hey! I’m Nehémie Lwatumba, a developer who’s all about crafting functional, user-friendly applications. Here, you’ll find my projects spanning front-end (Flutter) and back-end (Firebase, SQL) development. I love building solutions that are both powerful and easy to use, whether it’s a real-time data dashboard or a mobile-controlled IoT device. Dive into my repos, and let’s connect if you’d like to build something exciting together! 🚀</p>
 
-I am open to new opportunities and collaborations to continue creating impactful technological solutions. Please feel free to contact me to discuss potential projects.🤸🏿
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=NML124&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NML124&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NML124&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
+</div>
+
+###
+
+<img align="right" height="170" src="https://i.redd.it/uoc6m01viibc1.gif"  />
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/nehemie-mukene-lwatumba/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="nehemielwatumba@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+</div>
+
+###
