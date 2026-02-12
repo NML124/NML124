@@ -28,11 +28,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
 </div>
 
-###
-
-<img align="right" height="170" src="https://i.redd.it/uoc6m01viibc1.gif"  />
-
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/nehemie-lwatumba/" target="_blank">
