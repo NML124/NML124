@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 Hey! I’m Nehémie Lwatumba, a developer who’s all about crafting functional, user-friendly applications. Here, you’ll find my projects spanning front-end (Flutter) and back-end (Firebase, SQL) development. I love building solutions that are both powerful and easy to use, whether it’s a real-time data dashboard or a mobile-controlled IoT device. Dive into my repos, and let’s connect if you’d like to build something exciting together! 🚀</p>
+<p align="left">👋 Hey! I’m Nehémie Lwatumba, a developer who’s all about crafting functional, user-friendly applications. Here, you’ll find my projects spanning front-end (Flutter, Kotlin, SWIFT) and back-end (Firebase, Supabase, Laravel, Django, SQL) development. I love building solutions that are both powerful and easy to use, whether it’s a real-time data dashboard or a mobile-controlled IoT device. Dive into my repos, and let’s connect if you’d like to build something exciting together! 🚀</p>
 
 ###
 
